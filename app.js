@@ -24,6 +24,9 @@ app.get('/page3', function (req, res){
 	res.sendFile('/nodeprojects/HD1/page3.html');
 });
 
+app.get('/contactus', function (req, res){
+	res.sendFile('/nodeprojects/HD1/contactus.html');
+});
 
 
 
