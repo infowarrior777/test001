@@ -1,0 +1,11 @@
+{
+  "name": "helpdesk1",
+  "version": "1.0.0",
+  "description": "hekpdesk1 node express angular mongo full stack help desk app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
